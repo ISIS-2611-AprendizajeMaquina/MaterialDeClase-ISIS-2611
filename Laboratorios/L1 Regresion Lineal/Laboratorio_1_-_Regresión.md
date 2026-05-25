@@ -111,8 +111,8 @@ A continuación se encuentra la rúbrica de calificación que se utiliza para va
 | Actividad | Porcentaje |
 |:---|:---:|
 | 1. Se realiza la exploración y perfilamiento de los datos, describiendo los resultados.  | 10% |
-| 2. Se realiza la limpieza y preparación de los datos, justificando las decisiones tomadas.| 10% |
-| 3. Se construyen al menos dos modelos de regresión lineal con estrategias de preparación de datos diferentes y justificadas.  | 20% |
+| 2. Se realiza la limpieza y preparación de los datos, justificando las decisiones tomadas.| 10% |(2 preparaciones diferentes)
+| 3. Se construy en al menos dos modelos de regresión lineal con estrategias de preparación de datos diferentes y justificadas.  | 20% |
 | 4. Se construye la tabla comparativa mostrando el rendimiento sobre test de los dos mejores modelos, sobre las métricas RMSE, MAE y R2.   | 10% |
 | 5. Se deriva una tabla que muestra la importancia de cada variable con base en el modelo seleccionado.  | 10% |
 | 6. Se presenta el análisis de resultados con base en las preguntas de la sección Análisis de resultados.  | 25% |
