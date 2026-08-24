@@ -115,7 +115,7 @@ A continuación se encuentra la rúbrica de calificación que se utiliza para va
 | 6. Se presenta el análisis de resultados con base en las preguntas de la sección Análisis de resultados.  | 25% |
 | 7. Se realiza un video corto donde se expliquen los elementos más relevantes del ejercicio.  | 5% |
 | 8. Se registra el uso de IA generativa en el desarrollo del laboratorio, de forma clara y siguiendo los principios establecidos en el curso (ver en la siguiente sección).  | 5% |
-| 9. Archivo y resultado de predicciones (columna CVD Risk Score) sobre los datos de prueba compartidos en formato CSV ("Datos Test Lab 1.csv"). Se tomará como base el RMSE para ordenar y asignar la nota del grupo. | ++5% (+ otro 5% de máxima bonificación) |
+| 9. Archivo y resultado de predicciones de la temperatura sobre los datos de prueba compartidos en formato CSV ("Datos Test Lab 1.csv"). Se tomará como base el RMSE para ordenar y asignar la nota del grupo. | ++5% (+ otro 5% de máxima bonificación) |
 
 **++ Los valores de RMSE serán calculados entre todos los grupos del curso. Se toma como base el archivo que entregan con la estimación del valor de temperatura. Los grupos que obtengan un valor de RMSE que esté dentro del "top 10" reciben un 5% adicional como bonificación.**
 
