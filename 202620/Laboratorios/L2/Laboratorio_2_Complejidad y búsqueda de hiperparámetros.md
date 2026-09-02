@@ -17,6 +17,8 @@
 
 [Criterios de evaluación](#rubrica)
 
+[Uso de IAG en la elaboración del enunciado del laboratorio](#usoIAG) 
+
 [Uso de IAG en actividades del curso ISIS2611](#principios) 
 
 ## <a name="contexto"></a> Caso: AlpesPlanck
@@ -129,6 +131,8 @@ A continuación se encuentra la rúbrica de calificación que se utiliza para va
 | 7. Se realiza un video corto donde se expliquen los elementos más relevantes del ejercicio.  | 5% |
 | 8. Se registra el uso de IA generativa en el desarrollo del laboratorio, de forma clara y siguiendo los principios establecidos en el curso (ver en la siguiente sección).  | 5% |
 
+## <a name="usoIAG"></a> Uso de IAG en la elaboración del enunciado de este laboratorio
+El equipo docente comprometido con el uso transparente de IAG, declara de forma explícita que en el contexto de este laboratorio la IAG fue utilizada únicamente para revisar la redacción del enunciado, la cual posteriormente fue verificada y ajustada, en caso de ser necesario, por parte del equipo docente.
 
 ## <a name="principios"></a> Uso de IAG en actividades del curso ISIS2611
 La información que se presenta a continuación también está publicada en Bloque Neón, en la sección del curso **"Uso de la IA generativa"**. 
