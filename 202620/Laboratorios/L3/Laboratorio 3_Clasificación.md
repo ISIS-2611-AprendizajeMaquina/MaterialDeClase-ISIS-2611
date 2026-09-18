@@ -92,7 +92,7 @@ Una vez construidos los modelos, debes responder estas preguntas en una sección
 
 - Notebook (*.ipynb y *.html) por BloqueNeón con los nombres de los estudiantes. El Notebook debe estar documentado con las justificaciones de las decisiones tomadas en cada paso del ciclo de ML y las respuestas a las preguntas planteadas en el apartado "Análisis de resultados". Además, deben ser visibles las ejecuciones de cada celda.
 - Video explicativo.
-- Archivo "Datos_test_Lab3" con la etiqueta de las predicciones.
+- Archivo "Lab3_datos_Prueba" con la etiqueta de las predicciones.
 
 Esta entrega debe realizarse máximo el **19 de octubre, 8:00 p.m.** Recuerda registrar en el grupo asignado en Bloque Neón los dos integrantes que presentan este laboratorio, con el fin de habilitar el enlace de entrega.
 
