@@ -66,7 +66,7 @@ El conjunto de datos reúne escenarios de conducción, junto con información de
 
 - **9.** Elaboración de un video de máximo 3 minutos donde se expliquen los elementos relevantes del ejercicio realizado. Este video debe estar orientado a la empresa Ruta Alpes.
 
-- **10.** Generación de predicciones sobre los datos compartidos que no se encuentran etiquetados, utilizando el mejor modelo obtenido para cada tipo de cupón. Exportar las predicciones en formato CSV utilizando como base el mismo archivo de datos dado.
+- **10.** Generación de predicciones sobre los datos compartidos que no se encuentran etiquetados (Lab3_datos_Prueba), utilizando el mejor modelo obtenido para cada tipo de cupón. Exportar las predicciones en formato CSV utilizando como base el mismo archivo de datos dado.
 
 ## <a name="resultados"></a> Análisis de resultados.
 
@@ -114,7 +114,7 @@ A continuación se encuentra la rúbrica de calificación que se utiliza para va
 | 8. Identificación de las variables más relevantes. | 5% |
 | 9. Análisis de resultados con base en las preguntas de la sección F. | 30% |
 | 10. Video corto donde se expliquen los elementos más relevantes del ejercicio. | 5% |
-| 11. Archivo con resultado de predicciones sobre los datos de prueba compartidos en formato CSV ("Datos_test_Lab3.csv"). Se tomará como base el f1-score para ordenar y asignar la nota del grupo. | 5% |
+| 11. Archivo con resultado de predicciones sobre los datos de prueba compartidos en formato CSV ("Lab3_datos_Prueba.csv"). Se tomará como base el f1-score para ordenar y asignar la nota del grupo. | 5% |
 | 12. Registro del uso de IA generativa en el desarrollo del laboratorio, de forma clara, incluyendo los prompts utilizados (ver en la siguiente sección). | 5% |
 
 ## <a name="principios"></a> Uso de IAG en actividades del curso ISIS2611
